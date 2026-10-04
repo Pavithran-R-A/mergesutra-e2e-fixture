@@ -1,0 +1,11 @@
+{
+  "name": "mergesutra-e2e-fixture",
+  "version": "0.1.0",
+  "description": "A deliberately tiny package used to exercise MergeSutra's issue to pull-request flow end to end.",
+  "type": "module",
+  "main": "src/slugify.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
